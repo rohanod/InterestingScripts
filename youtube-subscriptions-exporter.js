@@ -1,3 +1,5 @@
+// Go to https://www.youtube.com/feed/channels first
+
 (async () => {
    const dialog = document.createElement("dialog");
    const label = document.createElement("label");
